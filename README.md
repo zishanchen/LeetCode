@@ -6,6 +6,7 @@ My solutions to LeetCode problems, synced automatically.
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/zishanchen/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/zishanchen/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/zishanchen/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/zishanchen/LeetCode/tree/master/0268-missing-number) |
@@ -37,5 +38,6 @@ My solutions to LeetCode problems, synced automatically.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/zishanchen/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/zishanchen/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
