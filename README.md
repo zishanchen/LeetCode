@@ -10,6 +10,7 @@ My solutions to LeetCode problems, synced automatically.
 | [0217-contains-duplicate](https://github.com/zishanchen/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/zishanchen/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/zishanchen/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/zishanchen/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zishanchen/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zishanchen/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -49,4 +50,8 @@ My solutions to LeetCode problems, synced automatically.
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zishanchen/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/zishanchen/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
